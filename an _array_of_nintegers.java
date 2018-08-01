@@ -18,7 +18,7 @@ class Ideone
 	    }
 	    for(i=0;i<k;i++)
 	    {
-	    	count=a[i]+count;
+	     count=a[i]+count;
 	    }
 	    System.out.println(count);
 	    	
